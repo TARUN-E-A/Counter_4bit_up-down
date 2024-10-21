@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-05 at 9 31 03 AM](https://github.com/user-attachments/assets/d5b47a34-74cf-487f-b4c4-71811d7fca7c)# Counter_4bit_up-down
+# Counter_4bit_up-down
 
 **Aim:**
 
